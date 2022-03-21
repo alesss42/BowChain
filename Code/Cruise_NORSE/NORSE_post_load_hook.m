@@ -1,4 +1,4 @@
-function [data, cfg] = SUNRISE_post_load_hook(data,cfg)
+function [data, cfg] = NORSE_post_load_hook(data,cfg)
 
 % Note: I don't recommend modifying this in the version we're using as a group.
 % The purpose of these hook functions is to arbitrarily modify the data at any
