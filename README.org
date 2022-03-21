@@ -1,4 +1,4 @@
-#+TITLE: BowChain
+#+TITLE: BowChain (NORSE-21)
 #+AUTHOR: Dylan Winters
 
 [[file:banner.png]]
